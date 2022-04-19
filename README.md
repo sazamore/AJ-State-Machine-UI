@@ -1,4 +1,4 @@
-# J-A-s-State-Machine-UI
+# A&J's State Machine UI
 for comparing changes in code
 
 This repo has the code more or less how it is at the end of the video. I don't recommend looking at this code until you watch the video. It'll explain everything.
