@@ -7,9 +7,9 @@ Still figuring things out as I go, but I think this should make things a lot mor
 
 ### Next steps
 I think you should focus on:
-    - creating a fontAwesome kit for your shapes (though I think they're all in the one you have imported)
-    - creating different shapes (triangle, dumbbell/line) using fontAwesome.
-    - using strings and if statements to create different shapes using the `rect()` method.
-    - clicking and dragging to create a line, and exploring detection (using methods similar to `over()` to "select" a target frot he connecting line)
+* creating a fontAwesome kit for your shapes (though I think they're all in the one you have imported)
+* creating different shapes (triangle, dumbbell/line) using fontAwesome.
+* using strings and if statements to create different shapes using the `rect()` method.
+* clicking and dragging to create a line, and exploring detection (using methods similar to `over()` to "select" a target frot he connecting line)
     
 Once these are together, then we can start thinking about the "backend"--namely, making function placeholders for control of sensors and/or motors.
